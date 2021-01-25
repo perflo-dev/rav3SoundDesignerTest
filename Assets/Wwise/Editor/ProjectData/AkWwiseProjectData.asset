@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 922dba8adfd65c241b65d3bb3c41c59d, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: e58dd12c5b447e4faa62aa420f0f7e77
+    GuidInternal: 
+    m_lastTime: -8585902824841713719
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 62003c052606514782844ec8b6b9581c
+    GuidInternal: 
+    m_lastTime: -8585900343360126064
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+    - name: Reverb
+      guid: 8a93cfce0e1a85489450b305f25bbbd7
+      id: 348963605
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Reverb
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\Reverb
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 76f12827b8f51d418323aecc07ddfc3e
+    GuidInternal: 
+    m_lastTime: -8585901056753561008
+    List:
+    - name: SB
+      guid: ee2ef72081a4634ca611ae78e0e9820d
+      id: 1584861542
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: SB
+        ObjectType: 7
+      Path: Default Work Unit\SB
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 52ba9d4c42fa424e8f0107b291b1c49a
+    GuidInternal: 
+    m_lastTime: -8585900301995270725
+    List:
+    - name: flats
+      guid: abce0eedcc4eb14bbca8a3a4f3337335
+      id: 1439553579
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: flats
+        ObjectType: 4
+      Path: Default Work Unit\flats
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: party
+      guid: 7ebb8421de56aa4193897238dec36c28
+      id: 3177314091
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: flats
+        ObjectType: 4
+      - ElementName: party
+        ObjectType: 3
+      Path: Default Work Unit\flats\party
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Baby
+      guid: 2f246f7fb912ed44b022335c593946bd
+      id: 1308864102
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: flats
+        ObjectType: 4
+      - ElementName: Play_Baby
+        ObjectType: 3
+      Path: Default Work Unit\flats\Play_Baby
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_DogBark
+      guid: 5f6b346995ef3d4a9508b14af0eba49e
+      id: 1754141786
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: flats
+        ObjectType: 4
+      - ElementName: Play_DogBark
+        ObjectType: 3
+      Path: Default Work Unit\flats\Play_DogBark
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Footsteps
+      guid: fb17b9635e47de4b8d33955e8567cbed
+      id: 3854155799
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Play_Footsteps
+        ObjectType: 3
+      Path: Default Work Unit\Play_Footsteps
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_lamp
+      guid: 5bc3861edb426f4da167ae1d18b9cd99
+      id: 4234949920
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Play_lamp
+        ObjectType: 3
+      Path: Default Work Unit\Play_lamp
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_roofWind
+      guid: 3d39bfc4607eb64cac80f3a202e13e40
+      id: 441471302
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Play_roofWind
+        ObjectType: 3
+      Path: Default Work Unit\Play_roofWind
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_roomTone
+      guid: ad08aee1ca0ea5499d5022f62eb26622
+      id: 2748311587
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Play_roomTone
+        ObjectType: 3
+      Path: Default Work Unit\Play_roomTone
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Street
+      guid: 96e49b1b52354a4cafd503baa07e382c
+      id: 2779137687
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Play_Street
+        ObjectType: 3
+      Path: Default Work Unit\Play_Street
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: c1c3b28e5084b4449f2936a639f6d83c
+    GuidInternal: 
+    m_lastTime: -8585900368941121123
+    List:
+    - name: Azimuth
+      guid: 4ebf0dd6941cff4682395e0d7b931b5b
+      id: 1437246667
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Azimuth
+        ObjectType: 13
+      Path: Default Work Unit\Azimuth
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: f1b03a14c2256046b3c60e103b1a831a
+    GuidInternal: 
+    m_lastTime: -8585902824842578465
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: c2c4230d05f9c7419eb54fd59bc75023
+    GuidInternal: 
+    m_lastTime: -8585902824842068374
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 1e8b3f9ba3f23749a5d3f955a5a35eef
+    GuidInternal: 
+    m_lastTime: -8585902824842298414
+    List: []
+  ExpandedItems:
+  - /rav3SoundDesignerTest_WwiseProject
+  - /rav3SoundDesignerTest_WwiseProject/Events
+  - /rav3SoundDesignerTest_WwiseProject/Events/Default Work Unit
+  - /rav3SoundDesignerTest_WwiseProject/Events/Default Work Unit/flats
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

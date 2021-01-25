@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4C9DBA52-FA42-4E42-8F01-07B291B1C49A}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{4C9DBA52-FA42-4E42-8F01-07B291B1C49A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="flats" ID="{ED0ECEAB-4ECC-4BB1-BCA8-A3A4F3337335}" ShortID="840359896">
+					<ChildrenList>
+						<Event Name="party" ID="{2184BB7E-56DE-41AA-9389-7238DEC36C28}">
+							<ChildrenList>
+								<Action Name="" ID="{98E329EA-7AFA-49F4-8F18-3F67BE27A139}" ShortID="615754952">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="party" ID="{9B7040F1-0CF1-401E-9E46-3C7D34A5D205}" WorkUnitID="{82B9930C-9F01-4EDE-A1AA-9A788C064FD6}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Baby" ID="{7F6F242F-12B9-44ED-B022-335C593946BD}">
+							<ChildrenList>
+								<Action Name="" ID="{12C04231-CA5C-4FA9-B24A-D7F8FD0DA5DA}" ShortID="496969552">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Baby" ID="{B6650940-D61B-48E0-A444-E06DA647425C}" WorkUnitID="{82B9930C-9F01-4EDE-A1AA-9A788C064FD6}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_DogBark" ID="{69346B5F-EF95-4A3D-9508-B14AF0EBA49E}">
+							<ChildrenList>
+								<Action Name="" ID="{6C2D4239-8B8E-4EE9-8C59-0BC3155B04AA}" ShortID="102416862">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="DogBark" ID="{64E13D88-7930-4D78-A279-401B430D862E}" WorkUnitID="{82B9930C-9F01-4EDE-A1AA-9A788C064FD6}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Event Name="Play_roofWind" ID="{C4BF393D-7E60-4CB6-AC80-F3A202E13E40}">
+					<ChildrenList>
+						<Action Name="" ID="{8EE5BDB4-4BE2-400D-BF92-12C3D13EA89B}" ShortID="797098294">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roofWind" ID="{54C278D7-A987-41B2-94A7-A6619BD02742}" WorkUnitID="{82B9930C-9F01-4EDE-A1AA-9A788C064FD6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_roomTone" ID="{E1AE08AD-0ECA-49A5-9D50-22F62EB26622}">
+					<ChildrenList>
+						<Action Name="" ID="{51773F26-A5AF-4F26-A380-6255455F16F9}" ShortID="885791280">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roomTone" ID="{7D1B04ED-835C-4562-B9DF-15A80488BBC1}" WorkUnitID="{82B9930C-9F01-4EDE-A1AA-9A788C064FD6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Footsteps" ID="{63B917FB-475E-4BDE-8D33-955E8567CBED}">
+					<ChildrenList>
+						<Action Name="" ID="{33DBB9AA-FF4F-4B93-9564-48D1C52EF650}" ShortID="638420887">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{556F0F89-F61F-44BC-B709-D70B82F8FA0D}" WorkUnitID="{82B9930C-9F01-4EDE-A1AA-9A788C064FD6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Street" ID="{1B9BE496-3552-4C4A-AFD5-03BAA07E382C}">
+					<ChildrenList>
+						<Action Name="" ID="{F871E7CD-D6CB-4791-B0FD-44FE34BF1E49}" ShortID="878817260">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Street" ID="{29C7AAA0-7175-4AED-BE4D-085144F904DC}" WorkUnitID="{82B9930C-9F01-4EDE-A1AA-9A788C064FD6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_lamp" ID="{1E86C35B-42DB-4D6F-A167-AE1D18B9CD99}">
+					<ChildrenList>
+						<Action Name="" ID="{B74EDC3F-31F4-474E-85AB-648B290368F8}" ShortID="822845066">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="lamp" ID="{42A7FAEE-49FE-47FF-A4FA-9558621F24A8}" WorkUnitID="{82B9930C-9F01-4EDE-A1AA-9A788C064FD6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

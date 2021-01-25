@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70e46f57bc2d9a54fad26d04df31a06e, type: 3}
+  m_Name: C4BF393D-7E60-4CB6-AC80-F3A202E13E40
+  m_EditorClassIdentifier: 
+  objectName: Play_roofWind
+  id: 441471302
+  guid: C4BF393D-7E60-4CB6-AC80-F3A202E13E40

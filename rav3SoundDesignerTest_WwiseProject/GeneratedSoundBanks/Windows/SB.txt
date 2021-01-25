@@ -1,0 +1,37 @@
+Event	ID	Name			Wwise Object Path	Notes
+	441471302	Play_roofWind			\Default Work Unit\Play_roofWind	
+	1308864102	Play_Baby			\Default Work Unit\flats\Play_Baby	
+	1754141786	Play_DogBark			\Default Work Unit\flats\Play_DogBark	
+	2748311587	Play_roomTone			\Default Work Unit\Play_roomTone	
+	2779137687	Play_Street			\Default Work Unit\Play_Street	
+	3177314091	party			\Default Work Unit\flats\party	
+	3854155799	Play_Footsteps			\Default Work Unit\Play_Footsteps	
+	4234949920	Play_lamp			\Default Work Unit\Play_lamp	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1437246667	Azimuth			\Default Work Unit\Azimuth	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1008402193	Low_Pass_20KHz	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	11625588	BabyRaspberry_SFXB_1973	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\BabyRaspberry_SFXB.1973_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Flats\Baby\BabyRaspberry_SFXB_1973		838524
+	55440991	BabyTalk_SFXB_1975	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\BabyTalk_SFXB.1975_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Flats\Baby\BabyTalk_SFXB_1975		610804
+	87237087	steps(2)	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\steps(2)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\steps(2)		23104
+	153798282	BabyTalkAhooo_SFXB_1976	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\BabyTalkAhooo_SFXB.1976_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Flats\Baby\BabyTalkAhooo_SFXB_1976		184288
+	206488547	BabyLaugh_SFXB_1970	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\BabyLaugh_SFXB.1970_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Flats\Baby\BabyLaugh_SFXB_1970		175360
+	302092905	BabyLaugh_SFXB_1971	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\BabyLaugh_SFXB.1971_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Flats\Baby\BabyLaugh_SFXB_1971		324544
+	325046755	party	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\partyLoop_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Flats\party		11796544
+	350533807	steps(3)	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\steps(3)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\steps(3)		23104
+	469633324	DogBark	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\MBCK ANIMAL Dog German Shepherd Bark Growl Aggressive Gain +0.0dB [d3f42908]_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Flats\DogBark		2630256
+	664839697	steps(4)	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\steps(4)_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\steps(4)		23104
+	725292752	roofWind	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\Roof wind_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Flats\roofWind		5184064
+	744457135	steps	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\steps_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\steps		23104
+	816109684	BabyLaugh_SFXB_1972	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\BabyLaugh_SFXB.1972_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Flats\Baby\BabyLaugh_SFXB_1972		541684
+	965147813	Street	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\383022__robinhood76__06989-busy-city-street-ambience-looping_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Street		6174784
+	1030261423	BabyRaspberry_SFXB_1974	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\BabyRaspberry_SFXB.1974_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Flats\Baby\BabyRaspberry_SFXB_1974		1402032
+	1033500692	lamp	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\lamp_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\lamp		4055104
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	759973795	roomTone	E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Windows\SFX\roomtone_D79FB2B7.wem	759973795.wem	\Actor-Mixer Hierarchy\Default Work Unit\roomTone	
+

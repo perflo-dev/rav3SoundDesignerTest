@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\GitHub\rav3SoundDesignerTest\rav3SoundDesignerTest_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="759973795" Language="SFX">
+			<ShortName>roomtone.wav</ShortName>
+			<Path>SFX\roomtone_D79FB2B7.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3197438237">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="348963605" Name="Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Reverb"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="1584861542" Language="SFX" Hash="3039065306">
+			<ObjectPath>\SoundBanks\Default Work Unit\SB</ObjectPath>
+			<ShortName>SB</ShortName>
+			<Path>SB.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3177314091" Name="party" ObjectPath="\Events\Default Work Unit\flats\party" MaxAttenuation="10.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="325046755" Language="SFX">
+							<ShortName>partyLoop.wav</ShortName>
+							<Path>SFX\partyLoop_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1308864102" Name="Play_Baby" ObjectPath="\Events\Default Work Unit\flats\Play_Baby" MaxAttenuation="10.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="11625588" Language="SFX">
+							<ShortName>BabyRaspberry_SFXB.1973.wav</ShortName>
+							<Path>SFX\BabyRaspberry_SFXB.1973_10C4C929.wem</Path>
+						</File>
+						<File Id="55440991" Language="SFX">
+							<ShortName>BabyTalk_SFXB.1975.wav</ShortName>
+							<Path>SFX\BabyTalk_SFXB.1975_10C4C929.wem</Path>
+						</File>
+						<File Id="153798282" Language="SFX">
+							<ShortName>BabyTalkAhooo_SFXB.1976.wav</ShortName>
+							<Path>SFX\BabyTalkAhooo_SFXB.1976_10C4C929.wem</Path>
+						</File>
+						<File Id="206488547" Language="SFX">
+							<ShortName>BabyLaugh_SFXB.1970.wav</ShortName>
+							<Path>SFX\BabyLaugh_SFXB.1970_10C4C929.wem</Path>
+						</File>
+						<File Id="302092905" Language="SFX">
+							<ShortName>BabyLaugh_SFXB.1971.wav</ShortName>
+							<Path>SFX\BabyLaugh_SFXB.1971_10C4C929.wem</Path>
+						</File>
+						<File Id="816109684" Language="SFX">
+							<ShortName>BabyLaugh_SFXB.1972.wav</ShortName>
+							<Path>SFX\BabyLaugh_SFXB.1972_10C4C929.wem</Path>
+						</File>
+						<File Id="1030261423" Language="SFX">
+							<ShortName>BabyRaspberry_SFXB.1974.wav</ShortName>
+							<Path>SFX\BabyRaspberry_SFXB.1974_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1754141786" Name="Play_DogBark" ObjectPath="\Events\Default Work Unit\flats\Play_DogBark" MaxAttenuation="10.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="469633324" Language="SFX">
+							<ShortName>MBCK ANIMAL Dog German Shepherd Bark Growl Aggressive Gain +0.0dB [d3f42908].wav</ShortName>
+							<Path>SFX\MBCK ANIMAL Dog German Shepherd Bark Growl Aggressive Gain +0.0dB [d3f42908]_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3854155799" Name="Play_Footsteps" ObjectPath="\Events\Default Work Unit\Play_Footsteps" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="87237087" Language="SFX">
+							<ShortName>steps(2).wav</ShortName>
+							<Path>SFX\steps(2)_10C4C929.wem</Path>
+						</File>
+						<File Id="350533807" Language="SFX">
+							<ShortName>steps(3).wav</ShortName>
+							<Path>SFX\steps(3)_10C4C929.wem</Path>
+						</File>
+						<File Id="664839697" Language="SFX">
+							<ShortName>steps(4).wav</ShortName>
+							<Path>SFX\steps(4)_10C4C929.wem</Path>
+						</File>
+						<File Id="744457135" Language="SFX">
+							<ShortName>steps.wav</ShortName>
+							<Path>SFX\steps_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="348963605" Name="Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Reverb"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="4234949920" Name="Play_lamp" ObjectPath="\Events\Default Work Unit\Play_lamp" MaxAttenuation="5.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="1033500692" Language="SFX">
+							<ShortName>lamp.wav</ShortName>
+							<Path>SFX\lamp_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="348963605" Name="Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Reverb"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="441471302" Name="Play_roofWind" ObjectPath="\Events\Default Work Unit\Play_roofWind" MaxAttenuation="10.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="725292752" Language="SFX">
+							<ShortName>Roof wind.wav</ShortName>
+							<Path>SFX\Roof wind_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2748311587" Name="Play_roomTone" ObjectPath="\Events\Default Work Unit\Play_roomTone" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="759973795" Language="SFX">
+							<ShortName>roomtone.wav</ShortName>
+							<Path>SFX\roomtone_D79FB2B7.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="2779137687" Name="Play_Street" ObjectPath="\Events\Default Work Unit\Play_Street" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="965147813" Language="SFX">
+							<ShortName>383022__robinhood76__06989-busy-city-street-ambience-looping.wav</ShortName>
+							<Path>SFX\383022__robinhood76__06989-busy-city-street-ambience-looping_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="1437246667" Name="Azimuth" ObjectPath="\Game Parameters\Default Work Unit\Azimuth"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
